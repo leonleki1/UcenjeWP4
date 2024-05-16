@@ -1,10 +1,10 @@
 CREATE DATABASE FIRMA;
 
-USE FIRMA;saaa
+USE FIRMA;
 
 CREATE TABLE POZICIJE (
 Sifra int not null primary key identity (1,1),
-Naziv varchar (40),
+Naziv int, 
 Duznost varchar (40),
 Ugovor datetime
 );
@@ -30,4 +30,3 @@ Email varchar (60),
 );
 
 ALTER TABLE GRUPERADNIKA ADD FOREIGN KEY (Sifra) references POZICIJE(Sifra);
-ALTER TABLE NADREDENI ADD FOREIGN KEY (Grupa) references GRUPE(Sifra);
