@@ -1,0 +1,740 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Zavrsni_rad_Izbornik_2
+{
+    class Izbornik
+    {
+        private static Dictionary<int, string> radnici = new Dictionary<int, string>();
+        private static Dictionary<int, string> zadaci = new Dictionary<int, string>();
+        private static Dictionary<int, string> strojevi = new Dictionary<int, string>();
+        private static Dictionary<int, string> rasadnici = new Dictionary<int, string>();
+        private static Dictionary<int, string> sadnice = new Dictionary<int, string>();
+
+
+        private static int idCounterRadnici = 1;
+        private static int idCounterZadaci = 1;
+        private static int idCounterStrojevi = 1;
+        private static int idCounterRasadnici = 1;
+        private static int idCounterSadnice = 1;
+
+
+        static void Main(string[] args)
+        {
+            while (true)
+            {
+
+                Console.Clear();
+                Console.WriteLine("****************************");
+                Console.WriteLine("Paulovnija 2.0");
+                Console.WriteLine("****************************");
+                Console.WriteLine("Sljedi glavni izbornik : ");
+                Console.WriteLine("1. Radnici");
+                Console.WriteLine("2. Zadaci");
+                Console.WriteLine("3. Strojevi");
+                Console.WriteLine("4. Rasadnici");
+                Console.WriteLine("5. Sadnice");
+                Console.WriteLine("6. Izlaz");
+                Console.Write("Izaberite jednu od opcija: ");
+                string rubrika = Console.ReadLine();
+
+                switch (rubrika)
+                {
+                    case "1":
+                        IzbornikRadnici();
+                        break;
+                    case "2":
+                        IzbornikZadaci();
+                        break;
+                    case "3":
+                        IzbornikStrojevi();
+                        break;
+                    case "4":
+                        IzbornikRasadnici();
+                        break;
+                    case "5":
+                        IzbornikSadnice();
+                        break;
+                    case "6":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+        private static void IzbornikRadnici()
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Radnici:");
+                Console.WriteLine("1. Prikaži sve radnike");
+                Console.WriteLine("2. Dodaj novog radnika");
+                Console.WriteLine("3. Ažuriraj radnika");
+                Console.WriteLine("4. Obriši radnika");
+                Console.WriteLine("5. Povratak");
+                Console.Write("Izaberite opciju: ");
+                string izbor = Console.ReadLine();
+
+                switch (izbor)
+                {
+                    case "1":
+                        PrikaziSveRadnike();
+                        break;
+                    case "2":
+                        DodajNovogRadnika();
+                        break;
+                    case "3":
+                        AzurirajRadnika();
+                        break;
+                    case "4":
+                        ObrisiRadnika();
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+        private static void IzbornikZadaci()
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Zadaci:");
+                Console.WriteLine("1. Prikaži sve zadatke");
+                Console.WriteLine("2. Dodaj novi zadatak");
+                Console.WriteLine("3. Ažuriraj zadatak");
+                Console.WriteLine("4. Obriši zadatak");
+                Console.WriteLine("5. Povratak");
+                Console.Write("Izaberite opciju: ");
+                string izbor = Console.ReadLine();
+
+                switch (izbor)
+                {
+                    case "1":
+                        PrikaziSveZadatke();
+                        break;
+                    case "2":
+                        DodajNoviZadatak();
+                        break;
+                    case "3":
+                        AzurirajZadatak();
+                        break;
+                    case "4":
+                        ObrisiZadatak();
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+        private static void IzbornikStrojevi()
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Strojevi:");
+                Console.WriteLine("1. Prikaži sve strojeve");
+                Console.WriteLine("2. Dodaj novi stroj");
+                Console.WriteLine("3. Ažuriraj stroj");
+                Console.WriteLine("4. Obriši stroj");
+                Console.WriteLine("5. Povratak");
+                Console.Write("Izaberite opciju: ");
+                string izbor = Console.ReadLine();
+
+                switch (izbor)
+                {
+                    case "1":
+                        PrikaziSveStrojeve();
+                        break;
+                    case "2":
+                        DodajNoviStroj();
+                        break;
+                    case "3":
+                        AzurirajStroj();
+                        break;
+                    case "4":
+                        ObrisiStroj();
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+        private static void IzbornikRasadnici()
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Rasadnici:");
+                Console.WriteLine("1. Prikaži sve rasadnike");
+                Console.WriteLine("2. Dodaj novi rasadnik");
+                Console.WriteLine("3. Ažuriraj rasadnik");
+                Console.WriteLine("4. Obriši rasadnik");
+                Console.WriteLine("5. Povratak");
+                Console.Write("Izaberite opciju: ");
+                string izbor = Console.ReadLine();
+
+                switch (izbor)
+                {
+                    case "1":
+                        PrikaziSveRasadnike();
+                        break;
+                    case "2":
+                        DodajNoviRasadnik();
+                        break;
+                    case "3":
+                        AzurirajRasadnik();
+                        break;
+                    case "4":
+                        ObrisiRasadnik();
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+        private static void IzbornikSadnice()
+        {
+            while (true)
+            {
+                Console.Clear();
+                Console.WriteLine("Sadnice:");
+                Console.WriteLine("1. Prikaži sve sadnice");
+                Console.WriteLine("2. Dodaj novu sadnicu");
+                Console.WriteLine("3. Ažuriraj sadnicu");
+                Console.WriteLine("4. Obriši sadnicu");
+                Console.WriteLine("5. Povratak");
+                Console.Write("Izaberite opciju: ");
+                string izbor = Console.ReadLine();
+
+                switch (izbor)
+                {
+                    case "1":
+                        PrikaziSveSadnice();
+                        break;
+                    case "2":
+                        DodajNovuSadnicu();
+                        break;
+                    case "3":
+                        AzurirajSadnicu();
+                        break;
+                    case "4":
+                        ObrisiSadnicu();
+                        break;
+                    case "5":
+                        return;
+                    default:
+                        Console.WriteLine("Nevažeći izbor. Pokušajte ponovno.");
+                        break;
+                }
+
+                Console.WriteLine("\nPritisnite bilo koju tipku za nastavak...");
+                Console.ReadKey();
+            }
+        }
+
+
+        private static void PrikaziSveRadnike()
+        {
+            Console.Clear();
+            Console.WriteLine("Prikaz svih radnika...");
+            if (radnici.Count == 0)
+            {
+                Console.WriteLine("Trenutno nema zaposlenika.");
+                return;
+            }
+            foreach (var radnik in radnici)
+            {
+                Console.WriteLine($"ID: {radnik.Key}, Ime: {radnik.Value}");
+            }
+        }
+
+        private static void DodajNovogRadnika()
+        {
+            Console.Clear();
+            Console.WriteLine("Dodavanje novog radnika...");
+            try
+            {
+                Console.Write("Unesite ime radnika: ");
+                string ime = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(ime))
+                {
+                    radnici.Add(idCounterRadnici++, ime);
+                    Console.WriteLine($"Radnik {ime} je dodan.");
+                }
+                else
+                {
+                    Console.WriteLine("Ime radnika ne može biti prazno.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Dogodila se greška prilikom dodavanja radnika: {ex.Message}");
+            }
+        }
+
+        private static void AzurirajRadnika()
+        {
+            Console.Clear();
+            Console.WriteLine("Ažuriranje postojećeg radnika...");
+            Console.Write("Unesite ID radnika kojeg želite ažurirati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (radnici.ContainsKey(id))
+                {
+                    Console.Write("Unesite novo ime radnika: ");
+                    string novoIme = Console.ReadLine();
+                    if (!string.IsNullOrWhiteSpace(novoIme))
+                    {
+                        radnici[id] = novoIme;
+                        Console.WriteLine($"Radnik {id} je ažuriran.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Ime radnika ne može biti prazno.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Radnik s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+        private static void ObrisiRadnika()
+        {
+            Console.Clear();
+            Console.WriteLine("Brisanje radnika...");
+            Console.Write("Unesite ID radnika kojeg želite obrisati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (radnici.Remove(id))
+                {
+                    Console.WriteLine($"Radnik s ID {id} je obrisan.");
+                }
+                else
+                {
+                    Console.WriteLine($"Radnik s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+
+        private static void PrikaziSveZadatke()
+        {
+            Console.Clear();
+            Console.WriteLine("Prikaz svih zadataka...");
+            if (zadaci.Count == 0)
+            {
+                Console.WriteLine("Trenutno nema zadataka.");
+                return;
+            }
+            foreach (var zadatak in zadaci)
+            {
+                Console.WriteLine($"ID: {zadatak.Key}, Naziv: {zadatak.Value}");
+            }
+        }
+
+        private static void DodajNoviZadatak()
+        {
+            Console.Clear();
+            Console.WriteLine("Dodavanje novog zadatka...");
+            try
+            {
+                Console.Write("Unesite naziv zadatka: ");
+                string naziv = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(naziv))
+                {
+                    zadaci.Add(idCounterZadaci++, naziv);
+                    Console.WriteLine($"Zadatak {naziv} je dodan.");
+                }
+                else
+                {
+                    Console.WriteLine("Naziv zadatka ne može biti prazan.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Dogodila se greška prilikom dodavanja zadatka: {ex.Message}");
+            }
+        }
+
+        private static void AzurirajZadatak()
+        {
+            Console.Clear();
+            Console.WriteLine("Ažuriranje postojećeg zadatka...");
+            Console.Write("Unesite ID zadatka kojeg želite ažurirati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (zadaci.ContainsKey(id))
+                {
+                    Console.Write("Unesite novi naziv zadatka: ");
+                    string noviNaziv = Console.ReadLine();
+                    if (!string.IsNullOrWhiteSpace(noviNaziv))
+                    {
+                        zadaci[id] = noviNaziv;
+                        Console.WriteLine($"Zadatak {id} je ažuriran.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Naziv zadatka ne može biti prazan.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Zadatak s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+        private static void ObrisiZadatak()
+        {
+            Console.Clear();
+            Console.WriteLine("Brisanje zadatka...");
+            Console.Write("Unesite ID zadatka kojeg želite obrisati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (zadaci.Remove(id))
+                {
+                    Console.WriteLine($"Zadatak s ID {id} je obrisan.");
+                }
+                else
+                {
+                    Console.WriteLine($"Zadatak s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+
+        private static void PrikaziSveStrojeve()
+        {
+            Console.Clear();
+            Console.WriteLine("Prikaz svih strojeva...");
+            if (strojevi.Count == 0)
+            {
+                Console.WriteLine("Trenutno nema strojeva.");
+                return;
+            }
+            foreach (var stroj in strojevi)
+            {
+                Console.WriteLine($"ID: {stroj.Key}, Naziv: {stroj.Value}");
+            }
+        }
+
+        private static void DodajNoviStroj()
+        {
+            Console.Clear();
+            Console.WriteLine("Dodavanje novog stroja...");
+            try
+            {
+                Console.Write("Unesite naziv stroja: ");
+                string naziv = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(naziv))
+                {
+                    strojevi.Add(idCounterStrojevi++, naziv);
+                    Console.WriteLine($"Stroj {naziv} je dodan.");
+                }
+                else
+                {
+                    Console.WriteLine("Naziv stroja ne može biti prazan.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Dogodila se greška prilikom dodavanja stroja: {ex.Message}");
+            }
+        }
+
+        private static void AzurirajStroj()
+        {
+            Console.Clear();
+            Console.WriteLine("Ažuriranje postojećeg stroja...");
+            Console.Write("Unesite ID stroja kojeg želite ažurirati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (strojevi.ContainsKey(id))
+                {
+                    Console.Write("Unesite novi naziv stroja: ");
+                    string noviNaziv = Console.ReadLine();
+                    if (!string.IsNullOrWhiteSpace(noviNaziv))
+                    {
+                        strojevi[id] = noviNaziv;
+                        Console.WriteLine($"Stroj {id} je ažuriran.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Naziv stroja ne može biti prazan.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Stroj s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+        private static void ObrisiStroj()
+        {
+            Console.Clear();
+            Console.WriteLine("Brisanje stroja...");
+            Console.Write("Unesite ID stroja kojeg želite obrisati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (strojevi.Remove(id))
+                {
+                    Console.WriteLine($"Stroj s ID {id} je obrisan.");
+                }
+                else
+                {
+                    Console.WriteLine($"Stroj s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+
+        private static void PrikaziSveRasadnike()
+        {
+            Console.Clear();
+            Console.WriteLine("Prikaz svih rasadnika...");
+            if (rasadnici.Count == 0)
+            {
+                Console.WriteLine("Trenutno nema rasadnika.");
+                return;
+            }
+            foreach (var rasadnik in rasadnici)
+            {
+                Console.WriteLine($"ID: {rasadnik.Key}, Naziv: {rasadnik.Value}");
+            }
+        }
+
+        private static void DodajNoviRasadnik()
+        {
+            Console.Clear();
+            Console.WriteLine("Dodavanje novog rasadnika...");
+            try
+            {
+                Console.Write("Unesite naziv rasadnika: ");
+                string naziv = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(naziv))
+                {
+                    rasadnici.Add(idCounterRasadnici++, naziv);
+                    Console.WriteLine($"Rasadnik {naziv} je dodan.");
+                }
+                else
+                {
+                    Console.WriteLine("Naziv rasadnika ne može biti prazan.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Dogodila se greška prilikom dodavanja rasadnika: {ex.Message}");
+            }
+        }
+
+        private static void AzurirajRasadnik()
+        {
+            Console.Clear();
+            Console.WriteLine("Ažuriranje postojećeg rasadnika...");
+            Console.Write("Unesite ID rasadnika kojeg želite ažurirati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (rasadnici.ContainsKey(id))
+                {
+                    Console.Write("Unesite novi naziv rasadnika: ");
+                    string noviNaziv = Console.ReadLine();
+                    if (!string.IsNullOrWhiteSpace(noviNaziv))
+                    {
+                        rasadnici[id] = noviNaziv;
+                        Console.WriteLine($"Rasadnik {id} je ažuriran.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Naziv rasadnika ne može biti prazan.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Rasadnik s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+        private static void ObrisiRasadnik()
+        {
+            Console.Clear();
+            Console.WriteLine("Brisanje rasadnika...");
+            Console.Write("Unesite ID rasadnika kojeg želite obrisati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (rasadnici.Remove(id))
+                {
+                    Console.WriteLine($"Rasadnik s ID {id} je obrisan.");
+                }
+                else
+                {
+                    Console.WriteLine($"Rasadnik s ID {id} nije pronađen.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+
+        private static void PrikaziSveSadnice()
+        {
+            Console.Clear();
+            Console.WriteLine("Prikaz svih sadnica...");
+            if (sadnice.Count == 0)
+            {
+                Console.WriteLine("Trenutno nema sadnica.");
+                return;
+            }
+            foreach (var sadnica in sadnice)
+            {
+                Console.WriteLine($"ID: {sadnica.Key}, Naziv: {sadnica.Value}");
+            }
+        }
+
+        private static void DodajNovuSadnicu()
+        {
+            Console.Clear();
+            Console.WriteLine("Dodavanje nove sadnice...");
+            try
+            {
+                Console.Write("Unesite naziv sadnice: ");
+                string naziv = Console.ReadLine();
+                if (!string.IsNullOrWhiteSpace(naziv))
+                {
+                    sadnice.Add(idCounterSadnice++, naziv);
+                    Console.WriteLine($"Sadnica {naziv} je dodana.");
+                }
+                else
+                {
+                    Console.WriteLine("Naziv sadnice ne može biti prazan.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Dogodila se greška prilikom dodavanja sadnice: {ex.Message}");
+            }
+        }
+
+        private static void AzurirajSadnicu()
+        {
+            Console.Clear();
+            Console.WriteLine("Ažuriranje postojeće sadnice...");
+            Console.Write("Unesite ID sadnice koju želite ažurirati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (sadnice.ContainsKey(id))
+                {
+                    Console.Write("Unesite novi naziv sadnice: ");
+                    string noviNaziv = Console.ReadLine();
+                    if (!string.IsNullOrWhiteSpace(noviNaziv))
+                    {
+                        sadnice[id] = noviNaziv;
+                        Console.WriteLine($"Sadnica {id} je ažurirana.");
+                    }
+                    else
+                    {
+                        Console.WriteLine("Naziv sadnice ne može biti prazan.");
+                    }
+                }
+                else
+                {
+                    Console.WriteLine($"Sadnica s ID {id} nije pronađena.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+
+        private static void ObrisiSadnicu()
+        {
+            Console.Clear();
+            Console.WriteLine("Brisanje sadnice...");
+            Console.Write("Unesite ID sadnice koju želite obrisati: ");
+            if (int.TryParse(Console.ReadLine(), out int id))
+            {
+                if (sadnice.Remove(id))
+                {
+                    Console.WriteLine($"Sadnica s ID {id} je obrisana.");
+                }
+                else
+                {
+                    Console.WriteLine($"Sadnica s ID {id} nije pronađena.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Nevažeći ID.");
+            }
+        }
+    }
+}
