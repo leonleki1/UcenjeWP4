@@ -1,0 +1,5 @@
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\csharp\UcenjeCS\Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0\obj\Debug\net8.0\Izbornik Paulovnija 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\csharp\UcenjeCS\Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0\obj\Debug\net8.0\Izbornik Paulovnija 2.0.AssemblyInfoInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\csharp\UcenjeCS\Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0\obj\Debug\net8.0\Izbornik Paulovnija 2.0.AssemblyInfo.cs
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\csharp\UcenjeCS\Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0\obj\Debug\net8.0\Izbornik Paulovnija 2.0.csproj.CoreCompileInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\csharp\UcenjeCS\Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0\obj\Debug\net8.0\Izbornik Paulovnija 2.0.sourcelink.json
