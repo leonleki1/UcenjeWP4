@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj": {}
+    "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj": {
+    "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj",
+        "projectUniqueName": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj",
         "projectName": "Izbornik Paulovnija 2.0",
-        "projectPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj",
+        "projectPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj",
         "packagesPath": "C:\\Users\\lekil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\obj\\",
+        "outputPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lekil\\AppData\\Roaming\\NuGet\\NuGet.Config",

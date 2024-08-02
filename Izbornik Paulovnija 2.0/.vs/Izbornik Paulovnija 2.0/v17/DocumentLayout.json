@@ -1,12 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\",
+  "WorkspaceRootPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\paulovnija 2.0\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\paulovnija 2.0\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik 2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\csharp\\ucenjecs\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,23 +26,34 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Izbornik 2.cs",
-              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik 2.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\Izbornik 2.cs",
-              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik 2.cs",
-              "RelativeToolTip": "..\\..\\..\\Izbornik 2.cs",
-              "ViewState": "AQIAAPcBAAAAAAAAAAAwwOECAAAAAAAA",
+              "Title": "Izbornik.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
+              "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
+              "RelativeToolTip": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwLwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-22T09:29:44.873Z",
+              "WhenOpened": "2024-07-22T11:36:40.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Izbornik 2.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik 2.cs",
+              "RelativeDocumentMoniker": "..\\Izbornik 2.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik 2.cs",
+              "RelativeToolTip": "..\\Izbornik 2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T09:29:44.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
               "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Program.cs",
-              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\csharp\\UcenjeCS\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
               "RelativeToolTip": "Izbornik Paulovnija 2.0\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

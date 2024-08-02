@@ -1,9 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Zavrsni_rad_Izbornik_2
+namespace Paulovnija_2._0._2._0
 {
-    class Izbornik
+    class program
     {
         private static Dictionary<int, string> radnici = new Dictionary<int, string>();
         private static Dictionary<int, string> zadaci = new Dictionary<int, string>();

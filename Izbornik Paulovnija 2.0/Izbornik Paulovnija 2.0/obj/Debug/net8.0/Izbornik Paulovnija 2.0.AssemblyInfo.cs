@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Izbornik Paulovnija 2.0")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ed0b286f2fe83a443aba2a93a04aea0c9cf220f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9dac3d072c5f7f715d445d2d621a11991ab64709")]
 [assembly: System.Reflection.AssemblyProductAttribute("Izbornik Paulovnija 2.0")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Izbornik Paulovnija 2.0")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
