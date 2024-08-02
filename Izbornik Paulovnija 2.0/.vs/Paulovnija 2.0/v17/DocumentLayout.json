@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\ciklicna\\ciklicna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\ciklicna\\ciklicna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\paulovnija 2.0\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,46 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
-              "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Program.cs",
-              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
-              "RelativeToolTip": "Izbornik Paulovnija 2.0\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:14:34.966Z",
-              "EditorCaption": ""
+              "DocumentIndex": 3,
+              "Title": "Ciklicna.csproj",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.csproj",
+              "RelativeDocumentMoniker": "Ciklicna\\Ciklicna.csproj",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.csproj",
+              "RelativeToolTip": "Ciklicna\\Ciklicna.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-02T07:54:06.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Ciklicna.cs",
-              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.cs",
-              "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.cs",
-              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.cs",
-              "RelativeToolTip": "Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAwwDcAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "Ciklicna Matrica.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
+              "RelativeDocumentMoniker": "Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
+              "RelativeToolTip": "Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:01:01.684Z",
+              "WhenOpened": "2024-08-02T07:53:07.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Program.cs",
+              "RelativeDocumentMoniker": "Ciklicna\\Program.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Program.cs",
+              "RelativeToolTip": "Ciklicna\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:52:17.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
+              "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Program.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
+              "RelativeToolTip": "Izbornik Paulovnija 2.0\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-02T07:14:34.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Izbornik.cs",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "RelativeToolTip": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T06:58:43.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-02T06:58:43.309Z"
             }
           ]
         }

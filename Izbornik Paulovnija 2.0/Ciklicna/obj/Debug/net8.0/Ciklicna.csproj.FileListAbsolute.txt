@@ -1,0 +1,15 @@
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.AssemblyInfoInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.AssemblyInfo.cs
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.csproj.CoreCompileInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.sourcelink.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\bin\Debug\net8.0\Ciklicna.exe
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\bin\Debug\net8.0\Ciklicna.deps.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\bin\Debug\net8.0\Ciklicna.runtimeconfig.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\bin\Debug\net8.0\Ciklicna.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\bin\Debug\net8.0\Ciklicna.pdb
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\refint\Ciklicna.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.pdb
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\Ciklicna.genruntimeconfig.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ciklicna\obj\Debug\net8.0\ref\Ciklicna.dll
