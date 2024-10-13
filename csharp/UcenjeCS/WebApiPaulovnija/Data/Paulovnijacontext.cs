@@ -7,6 +7,7 @@ namespace WebApiPaulovnija.Data
 
         public Paulovnijacontext(DbContextOptions<Paulovnijacontext> opcije) : base(opcije) { }
 
+        public DbSet<Radnici>Smjerovi { get; set; }
 
     }
 }

@@ -3,24 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}|Ljubavni Kalkulator\\Ljubavni Kalkulator.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ljubavni kalkulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}|Ljubavni Kalkulator\\Ljubavni Kalkulator.csproj|solutionrelative:ljubavni kalkulator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}|Ljubavni Kalkulator\\Ljubavni Kalkulator.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ljubavni kalkulator\\ljubavni kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}|Ljubavni Kalkulator\\Ljubavni Kalkulator.csproj|solutionrelative:ljubavni kalkulator\\ljubavni kalkulator\\kalkulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklina\\ciklicna matrica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\izbornik paulovnija 2.0\\paulovnija 2.0\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}|Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0.csproj|solutionrelative:izbornik paulovnija 2.0\\paulovnija 2.0\\izbornik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|c:\\users\\lekil\\documents\\github\\ucenjewp4\\izbornik paulovnija 2.0\\ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}|Ciklicna\\Ciklicna.csproj|solutionrelative:ciklicna\\ciklicna.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,11 +38,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "Kalkulator.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ljubavni Kalkulator\\Ljubavni Kalkulator\\Kalkulator.cs",
+              "RelativeDocumentMoniker": "Ljubavni Kalkulator\\Ljubavni Kalkulator\\Kalkulator.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ljubavni Kalkulator\\Ljubavni Kalkulator\\Kalkulator.cs",
+              "RelativeToolTip": "Ljubavni Kalkulator\\Ljubavni Kalkulator\\Kalkulator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:03:51.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ljubavni Kalkulator\\Program.cs",
+              "RelativeDocumentMoniker": "Ljubavni Kalkulator\\Program.cs",
+              "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ljubavni Kalkulator\\Program.cs",
+              "RelativeToolTip": "Ljubavni Kalkulator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:03:06.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Ciklicna.csproj",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklicna.csproj",
               "RelativeDocumentMoniker": "Ciklicna\\Ciklicna.csproj",
@@ -46,20 +84,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Ciklicna Matrica.cs",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
               "RelativeDocumentMoniker": "Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
               "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
               "RelativeToolTip": "Ciklicna\\Ciklina\\Ciklicna Matrica.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAMAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwDkAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-02T07:53:07.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Ciklicna\\Program.cs",
               "RelativeDocumentMoniker": "Ciklicna\\Program.cs",
@@ -67,11 +105,12 @@
               "RelativeToolTip": "Ciklicna\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:52:17.575Z"
+              "WhenOpened": "2024-08-02T07:52:17.575Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Program.cs",
               "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Program.cs",
@@ -79,19 +118,21 @@
               "RelativeToolTip": "Izbornik Paulovnija 2.0\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T07:14:34.966Z"
+              "WhenOpened": "2024-08-02T07:14:34.966Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Izbornik.cs",
               "DocumentMoniker": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "RelativeDocumentMoniker": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "ToolTip": "C:\\Users\\lekil\\Documents\\GitHub\\UcenjeWP4\\Izbornik Paulovnija 2.0\\Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
               "RelativeToolTip": "Izbornik Paulovnija 2.0\\Paulovnija 2.0\\Izbornik.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-02T06:58:43.309Z"
+              "WhenOpened": "2024-08-02T06:58:43.309Z",
+              "EditorCaption": ""
             }
           ]
         }

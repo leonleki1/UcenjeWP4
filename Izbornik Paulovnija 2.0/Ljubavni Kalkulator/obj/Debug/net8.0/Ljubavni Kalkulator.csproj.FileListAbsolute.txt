@@ -1,0 +1,15 @@
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.AssemblyInfoInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.AssemblyInfo.cs
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.sourcelink.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\bin\Debug\net8.0\Ljubavni Kalkulator.exe
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\bin\Debug\net8.0\Ljubavni Kalkulator.deps.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\bin\Debug\net8.0\Ljubavni Kalkulator.runtimeconfig.json
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\bin\Debug\net8.0\Ljubavni Kalkulator.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\bin\Debug\net8.0\Ljubavni Kalkulator.pdb
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\refint\Ljubavni Kalkulator.dll
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.pdb
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\Ljubavni Kalkulator.genruntimeconfig.cache
+C:\Users\lekil\Documents\GitHub\UcenjeWP4\Izbornik Paulovnija 2.0\Ljubavni Kalkulator\obj\Debug\net8.0\ref\Ljubavni Kalkulator.dll

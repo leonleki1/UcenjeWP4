@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Izbornik Paulovnija 2.0", "Izbornik Paulovnija 2.0\Izbornik Paulovnija 2.0.csproj", "{5A72BB3D-6736-4F19-8D41-7E9BE4CA6F5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ciklicna", "Ciklicna\Ciklicna.csproj", "{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ciklicna", "Ciklicna\Ciklicna.csproj", "{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ljubavni Kalkulator", "Ljubavni Kalkulator\Ljubavni Kalkulator.csproj", "{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{08C51EF4-BD03-4CE0-918D-407F6E6AEBF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEDE33D-266C-4F73-8D90-1DCB0FE51EBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
